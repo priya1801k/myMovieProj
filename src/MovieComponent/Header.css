@@ -1,0 +1,13 @@
+.flex1 {
+  display: flex;
+  margin: 15px;
+}
+
+.flex1 > * {
+  margin-right: 1rem;
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 28px;
+}

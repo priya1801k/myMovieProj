@@ -1,0 +1,19 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.pagination_btn{
+    border: 1px solid plum;
+    height: 2rem;
+    width: 4.5rem;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.page-no{
+    border: 1px solid rgb(223, 142, 223);
+    height: 2rem;
+    width: 2rem;
+    border-radius: 5px;
+    text-align: center;
+}

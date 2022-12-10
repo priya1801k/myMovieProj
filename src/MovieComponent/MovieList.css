@@ -1,0 +1,21 @@
+.trending-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-inline-start: 1rem;
+}
+
+.list-box {
+  width: 20%;
+  height: 30rem;
+  margin-bottom: 1rem;
+  /* border: 1px solid gray; */
+}
+
+.list-img {
+  height: 80%;
+}
+
+.trending-box > * {
+  text-align: center;
+}
